@@ -1,0 +1,12 @@
+numpy
+python-dotenv
+torchvision
+torchaudio
+transformers
+sentencepiece
+sacremoses
+accelerate
+diffusers
+datasets
+huggingface_hub
+ipywidgets
