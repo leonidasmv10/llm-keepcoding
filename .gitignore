@@ -12,6 +12,9 @@ assets/lip/*
 !assets/audios/.gitkeep
 !assets/lip/.gitkeep
 
+chroma_db/
+pdfs/
+
 # Distribution / packaging
 .Python
 build/
